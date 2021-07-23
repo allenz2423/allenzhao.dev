@@ -1,6 +1,7 @@
 .navbar-background {
     background-color: #DAE3E5;
 }
-.notextdecoration {
-    text-decoration: none;
+.nav-title {
+    color: #3EB489;
+    font-weight: 600;
 }
