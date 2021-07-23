@@ -9,16 +9,17 @@
     position:absolute
 }
 h1 {
-    text-align: center;
+    text-align: left;
     padding-top: 3rem;
     color: #F85D49;
     font-weight: 700;
     font-size: 70px;
 }
 .center {
-    padding-top: 2rem;
+    border-radius: 10%;
+    padding-top: 1rem;
     display: block;
-    margin-left: auto;
+    margin-left: 1rem;
     margin-right: auto;
     width: 30%;
 }
@@ -34,4 +35,7 @@ hr.solid {
   }
 .text-center {
     text-align: center;
+}
+img {
+    image-orientation: from-image;
 }
