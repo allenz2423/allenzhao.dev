@@ -5,3 +5,33 @@
     color: #3EB489;
     font-weight: 600;
 }
+.absolute {
+    position:absolute
+}
+h1 {
+    text-align: center;
+    padding-top: 3rem;
+    color: #F85D49;
+    font-weight: 700;
+    font-size: 70px;
+}
+.center {
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.font-lobster {
+    font-family: 'Lobster', cursive;
+    font-size: 32px;
+}
+.font-balsamiq {
+    font-family: 'Balsamiq Sans', cursive;
+}
+hr.solid {
+    border-top: 5px solid #DAE3E5;
+  }
+.text-center {
+    text-align: center;
+}
