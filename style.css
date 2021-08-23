@@ -5,7 +5,26 @@
     color: #3EB489;
     font-weight: 600;
 }
-
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
+.nav-ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+}
+.nav-ul li a {
+    font-size: 20px;
+    display: inline-block;
+    color: #3EB489;
+    padding: 10px 20px;
+    text-decoration: none;
+}
 h1 {
     text-align: left;
     padding-top: 3rem;
@@ -25,8 +44,9 @@ h1 {
     font-family: 'Lobster', cursive;
     font-size: 32px;
 }
-.font-balsamiq {
-    font-family: 'Balsamiq Sans', cursive;
+.font-raleway {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
 }
 hr.solid {
     border-top: 5px solid #DAE3E5;
