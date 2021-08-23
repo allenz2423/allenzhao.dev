@@ -1,13 +1,11 @@
-z.navbar-background {
+.navbar-background {
     background-color: #DAE3E5;
 }
 .nav-title {
     color: #3EB489;
     font-weight: 600;
 }
-.absolute {
-    position:absolute
-}
+
 h1 {
     text-align: left;
     padding-top: 3rem;
